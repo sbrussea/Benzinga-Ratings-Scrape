@@ -4,7 +4,7 @@ Takes the html code from a popular ratings site for stocks, then outputs a text 
 
 How to:
 
-Go to https://www.benzinga.com/calendar/ratings, and with inspect element on chrome, right click where it says <html xmlns>, then copy->copy element. Create a new 
+Go to https://www.benzinga.com/calendar/ratings, and with inspect element on chrome, right click where it says "html xmlns", then copy->copy element. Create a new 
 file in any text editor and call it "BenzingaData.html", paste the copied html code into "BenzingaData.html". Save "BenzingaData.html" in the same folder as the 
 python file you download, "BenzingaScrape.py". Now just run "BeningaScrape.py", the resulting txt file will be in the same folder as mentioned before. 
  

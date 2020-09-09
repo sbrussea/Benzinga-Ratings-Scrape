@@ -10,6 +10,6 @@ python file you download, "BenzingaScrape.py". Now just run "BeningaScrape.py", 
  
  
  If you want to manipulate the different weightings of the ratings then go into the python file and change the "weighter" function, you can change each weight by 
- going to the rating you want to change, then changing that line of code to say : weights['<whatever rating>'] = <integer weight of your choice>.
+ going to the rating you want to change, then changing that rating to weigh whatever numerical value you prefer.
   
   
